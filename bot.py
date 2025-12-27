@@ -12,7 +12,7 @@ from aiohttp import web
 pyrogram.utils.MIN_CHANNEL_ID = -1002449417637
 
 name = """
-Files sequence bot started ✨ Credit:- @RexBots_Official
+Files sequence bot started ✨ Credit:- @AkMovieVerse
 """
 
 class Bot(Client):
@@ -64,7 +64,7 @@ class Bot(Client):
                 photo="https://ibb.co/DH3N4Lyr",
                 caption="**I ʀᴇsᴛᴀʀᴛᴇᴅ ᴀɢᴀɪɴ !**",
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/RexBots_Official")]]
+                    [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Akmovieshubx")]]
                 )
             )
         except Exception as e:
